@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou o Victor!</h1>
-<h3 align="center">Estudante de Sistemas de Informação - Universidade Federal de Uberlândia</h3>
+<h1>Olá 👋, Eu sou o Victor!</h1>
+<h3>Estudante de Sistemas de Informação - Universidade Federal de Uberlândia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
