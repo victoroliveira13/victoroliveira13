@@ -9,7 +9,7 @@
   <a href="https://docs.oracle.com/en/java/">
     <img src="https://img.shields.io/badge/java-d1d1d1?style=for-the-badge&logo=java&logoColor=red">
   </a>
-  <a href="https://pt-br.reactjs.org/docs/getting-started.html">
+  <a href="https://reactjs.org/docs/getting-started.html">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
   <a href="https://reactnative.dev/docs/getting-started">
